@@ -1,5 +1,3 @@
-### **README.md** for Text Summarization Streamlit App
-
 # Text Summarization Streamlit App ✍️📝
 
 This is a **Text Summarization** web application built using **Streamlit** 🚀 and powered by **Cohere API** 💬 to provide high-quality text summaries. The app allows users to input text and receive a concise summary based on their chosen length.
@@ -70,8 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Cohere API** for providing powerful language models for text summarization 💡.
 - **Streamlit** for making it easy to create interactive web apps 🌍.
 
-- **🙏**: For acknowledgment.
-
----
-
-Feel free to copy this README and modify as needed for your app. If you'd like any more changes or need help with additional sections, let me know! 😄
